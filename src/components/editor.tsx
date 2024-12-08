@@ -5,7 +5,7 @@ export default function Editor() {
   return (
     <div className="container mx-auto px-[30px] py-12">
       <div className="text-center mb-12">
-        <h2 className="text-3xl font-bold text-gray-900 mb-4">EDITOR'S PICK</h2>
+        <h2 className="text-3xl font-bold text-gray-900 mb-4">EDITOR PICK</h2>
         <p className="text-gray-600">
           Problems trying to resolve the conflict between
         </p>

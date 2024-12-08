@@ -5,7 +5,6 @@ import NeuralBanner from "@/components/neural-banner";
 import { ProductGrid } from "@/components/product-grid"
 import ProductHero from "@/components/product-hero";
 import Footer from "@/components/footer"; 
-import ProductPage from "@/components/product-page";
 
 
 export default function Home() {
